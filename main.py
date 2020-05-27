@@ -194,4 +194,4 @@ class Covid(commands.AutoShardedBot):
 
 if __name__ == "__main__":
     bot = Covid()
-    bot.run(decouple.config("token"))
+    bot.run(decouple.config("NzE1MTc3MTE5NDkxMjkzMjU2.Xs5anQ.6fV0EnTuqmxpKPZS7kSzfMiya7g"))
